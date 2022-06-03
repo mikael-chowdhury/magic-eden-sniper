@@ -1,7 +1,5 @@
-from json import JSONDecodeError
 import requests
 import config
-import twitter_config as tconfig
 from _color import color as c
 
 with open("log.txt", "w") as f:
@@ -14,51 +12,6 @@ def log(message):
     with open("log.txt", "a") as f:
         f.write(message + "\n")
         f.close()
-
-def get_twitter_uri(extension):
-    return config.TWITTER_API_BASE + extension
-
-def get_twitter_api_headers():
-    return {"Authorization": f"Bearer {tconfig.TWITTER_BEARER_TOKEN}"}
-
-def lookup_user(username):
-    users_lookup_uri = f"/2/users/by/username/{username}"
-
-    return requests.get(get_twitter_uri(users_lookup_uri), headers=get_twitter_api_headers())
-
-def get_twitter_followers(username):
-    
-    user_data = lookup_user(username)
-
-    followers = -1
-
-    try:
-        decoded = dict(user_data.json())
-
-        if "data" in decoded.keys():
-            id = decoded["data"]["id"]
-
-            followers_uri = f"/2/users/{id}?user.fields=public_metrics"
-
-            followers_data = requests.get(get_twitter_uri(followers_uri), headers=get_twitter_api_headers())
-
-            try:
-                decoded = dict(followers_data.json())
-
-                if "data" in decoded.keys():
-                    f = decoded["data"]["public_metrics"]["followers_count"]
-
-                    if f is not None:
-                        followers = int(f)
-
-            except JSONDecodeError as e:
-                pass
-
-    except JSONDecodeError as e:
-        return
-
-    return followers
-
 step = 500
 
 individual = 0
