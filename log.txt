@@ -1,72 +1,89 @@
-[1m[4m[96mproject #1  |  phantom_punks[0m
-obtaining listings for collection...
-[1m[4m[96mproject #2  |  Ghoulies Souls[0m
-obtaining listings for collection...
-[1m[4m[96mproject #3  |  SVPLY CHVN x Portals Citizens Card[0m
-obtaining listings for collection...
-[1m[4m[96mproject #4  |  degen roller club[0m
-obtaining listings for collection...
-[1m[4m[93mproject #5  |  Drippin' Apes[0m
-obtaining listings for collection...
-[1m[4m[93mproject #6  |  Rare Puma Society[0m
-obtaining listings for collection...
-[1m[4m[96mproject #7  |  Solstronauts[0m
-obtaining listings for collection...
-[1m[4m[94mproject #8  |  Derp Cat Degens[0m
-obtaining listings for collection...
-[1m[4m[96mproject #9  |  Clout Demons NFT[0m
-obtaining listings for collection...
-[1m[4m[36mproject #10  |  366roses[0m
-obtaining listings for collection...
-[1m[4m[36mproject #11  |  HeavenDAO[0m
-obtaining listings for collection...
-[1m[4m[36mproject #12  |  Roadhouse Runts[0m
-obtaining listings for collection...
-[1m[4m[96mproject #13  |  Damaged Babies[0m
-obtaining listings for collection...
-[1m[4m[95mproject #14  |  Emerald Kidz[0m
-obtaining listings for collection...
-[1m[4m[94mproject #15  |  Xronins Nft[0m
-obtaining listings for collection...
-[1m[4m[93mproject #16  |  Tulip Head Society – 1637[0m
-obtaining listings for collection...
-[1m[4m[95mproject #17  |  Wolveverse[0m
-obtaining listings for collection...
-[1m[4m[36mproject #18  |   SDC Dog Houses[0m
-obtaining listings for collection...
-[1m[4m[36mproject #19  |  Cutie Kaiju DAO[0m
-obtaining listings for collection...
-[1m[4m[94mproject #20  |  FunkTooms[0m
-obtaining listings for collection...
-[1m[4m[94mproject #21  |  Aylienz[0m
-obtaining listings for collection...
-[1m[4m[94mproject #22  |  Dead Foxes[0m
-obtaining listings for collection...
-[1m[4m[94mproject #23  |  Cyclops Society[0m
-obtaining listings for collection...
-[1m[4m[94mproject #24  |  Suteki[0m
-obtaining listings for collection...
-[1m[4m[96mproject #25  |  Crypto Monkey[0m
-obtaining listings for collection...
-[1m[4m[94mproject #26  |  Invisible Bears[0m
-obtaining listings for collection...
-[1m[4m[36mproject #27  |  The Lost Apes Honoraries[0m
-obtaining listings for collection...
-[1m[4m[36mproject #28  |  Z God Pass[0m
-obtaining listings for collection...
-[1m[4m[96mproject #29  |  Bandit Boys[0m
-obtaining listings for collection...
-[1m[4m[95mproject #30  |  Flag Carriers[0m
-obtaining listings for collection...
-[1m[4m[36mproject #31  |  Shadow Bats[0m
-obtaining listings for collection...
-[1m[4m[94mproject #32  |  Degenerate Giraffe Girls[0m
-obtaining listings for collection...
-[1m[4m[94mproject #33  |  air3D max's[0m
-obtaining listings for collection...
-[1m[4m[95mproject #34  |  Genesis Bee Eggs[0m
-obtaining listings for collection...
-[1m[4m[95mproject #35  |  Damaged Youth[0m
-obtaining listings for collection...
-[1m[4m[36mproject #36  |  DegenMobz[0m
-obtaining listings for collection...
+[93mobtaining list of collections... this could take a while
+[0m
+[1m[4m[94mproject #1/700  |  The lazy cup guys nft[0m
+[93mobtaining listings for collection...[0m
+[93mobtaining listings for collection...[0m
+[1m[4m[95mproject #3/700  |  Spaced Out Mobile Suits[0m
+[93mobtaining listings for collection...[0m
+[1m[4m[96mproject #4/700  |  Intruders Club[0m
+[93mobtaining listings for collection...[0m
+[1m[4m[96mproject #5/700  |  ArtMonkees Relics[0m
+[93mobtaining listings for collection...[0m
+[1m[4m[36mproject #6/700  |  Lucid Realms[0m
+[93mobtaining listings for collection...[0m
+[1m[4m[95mproject #7/700  |  Sleepy Degen[0m
+[93mobtaining listings for collection...[0m
+[1m[4m[94mproject #8/700  |  Padayon[0m
+[93mobtaining listings for collection...[0m
+[1m[4m[95mproject #9/700  |  Metafigz Heads[0m
+[93mobtaining listings for collection...[0m
+[1m[4m[36mproject #10/700  |  Wild Monke[0m
+[93mobtaining listings for collection...[0m
+[1m[4m[95mproject #11/700  |  Poker Neko (Pre-Flop Phase)[0m
+[93mobtaining listings for collection...[0m
+[1m[4m[96mproject #12/700  |  Solana Scouts[0m
+[93mobtaining listings for collection...[0m
+[1m[4m[36mproject #13/700  |  Metaversol Pass[0m
+[93mobtaining listings for collection...[0m
+[1m[4m[94mproject #14/700  |  True Degenz[0m
+[93mobtaining listings for collection...[0m
+[1m[4m[94mproject #15/700  |  Pocket Wizards[0m
+[93mobtaining listings for collection...[0m
+[1m[4m[95mproject #16/700  |  Leftoverz[0m
+[93mobtaining listings for collection...[0m
+[1m[4m[95mproject #17/700  |  Galactic Goons[0m
+[93mobtaining listings for collection...[0m
+[1m[4m[94mproject #18/700  |  MKM Kugaris Reactor[0m
+[93mobtaining listings for collection...[0m
+[1m[4m[36mproject #19/700  |  IMSO: Meta Chimp Champions[0m
+[93mobtaining listings for collection...[0m
+[1m[4m[96mproject #20/700  |  Bunnies n Friends[0m
+[93mobtaining listings for collection...[0m
+[1m[4m[94mproject #21/700  |  Phantom Punks[0m
+[93mobtaining listings for collection...[0m
+[1m[4m[95mproject #22/700  |  Ghoulies Souls[0m
+[93mobtaining listings for collection...[0m
+[1m[4m[94mproject #23/700  |  SVPLY CHVN x Portals Citizens Card[0m
+[93mobtaining listings for collection...[0m
+[1m[4m[36mproject #24/700  |  degen roller club[0m
+[93mobtaining listings for collection...[0m
+[1m[4m[95mproject #25/700  |  Drippin' Apes[0m
+[93mobtaining listings for collection...[0m
+[1m[4m[36mproject #26/700  |  Rare Puma Society[0m
+[93mobtaining listings for collection...[0m
+[1m[4m[95mproject #27/700  |  Solstronauts[0m
+[93mobtaining listings for collection...[0m
+[1m[4m[95mproject #28/700  |  Derp Cat Degens[0m
+[93mobtaining listings for collection...[0m
+[1m[4m[94mproject #29/700  |  Clout Demons NFT[0m
+[93mobtaining listings for collection...[0m
+[1m[4m[36mproject #30/700  |  366roses[0m
+[93mobtaining listings for collection...[0m
+[1m[4m[36mproject #31/700  |  HeavenDAO[0m
+[93mobtaining listings for collection...[0m
+[1m[4m[96mproject #32/700  |  Roadhouse Runts[0m
+[93mobtaining listings for collection...[0m
+[1m[4m[94mproject #33/700  |  Damaged Babies[0m
+[93mobtaining listings for collection...[0m
+[1m[4m[94mproject #34/700  |  Emerald Kidz[0m
+[93mobtaining listings for collection...[0m
+[1m[4m[36mproject #35/700  |  Xronins Nft[0m
+[93mobtaining listings for collection...[0m
+[1m[4m[96mproject #36/700  |  Tulip Head Society – 1637[0m
+[93mobtaining listings for collection...[0m
+[1m[4m[95mproject #37/700  |  Wolveverse[0m
+[93mobtaining listings for collection...[0m
+[1m[4m[94mproject #38/700  |   SDC Dog Houses[0m
+[93mobtaining listings for collection...[0m
+[1m[4m[96mproject #39/700  |  Cutie Kaiju DAO[0m
+[93mobtaining listings for collection...[0m
+[1m[4m[36mproject #40/700  |  FunkTooms[0m
+[93mobtaining listings for collection...[0m
+[1m[4m[96mproject #41/700  |  Aylienz[0m
+[93mobtaining listings for collection...[0m
+[1m[4m[94mproject #42/700  |  Dead Foxes[0m
+[93mobtaining listings for collection...[0m
+[1m[4m[94mproject #43/700  |  Cyclops Society[0m
+[93mobtaining listings for collection...[0m
+[1m[4m[95mproject #44/700  |  Suteki[0m
+[93mobtaining listings for collection...[0m

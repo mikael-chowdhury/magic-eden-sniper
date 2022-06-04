@@ -15,6 +15,6 @@ class color:
 
    @staticmethod
    def rand():
-      colors = ["PURPLE", "CYAN", "DARKCYAN", "BLUE", "YELLOW"]
+      colors = ["PURPLE", "CYAN", "DARKCYAN", "BLUE"]
 
       return getattr(color, colors[random.randrange(0, len(colors))])
