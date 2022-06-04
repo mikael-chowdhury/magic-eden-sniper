@@ -135,7 +135,7 @@ def loop():
 
                 if flip_value > config.VALUE_TRADE:
                     with open("output.txt", "a") as f:
-                        f.write("\n" + dcollection["name"])
+                        f.write(dcollection["name"] + f"  |  {flip_value}\n")
                         f.close()
             else:
                 print(c.PURPLE + "project has no listings" + c.END + "\n")
