@@ -83,7 +83,7 @@ def loop():
 
             listings = []
 
-            log(c.YELLOW + "\nobtaining listings for collection..." + c.END)
+            log(c.YELLOW + "obtaining listings for collection..." + c.END)
 
             for u in range(0, 10000, step):
                 symbol = dcollection["symbol"]
