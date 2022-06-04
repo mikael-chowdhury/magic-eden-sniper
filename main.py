@@ -83,7 +83,7 @@ def loop():
 
             listings = []
 
-            log(c.YELLOW + "obtaining listings for collection..." + c.END)
+            log(c.YELLOW + "\nobtaining listings for collection..." + c.END)
 
             for u in range(0, 10000, step):
                 symbol = dcollection["symbol"]
@@ -133,7 +133,7 @@ def loop():
 
                 print(c.GREEN + "flipping value " + str(round(flip_value, 2)) + "gbp\n" + c.END if flip_value >= config.VALUE_TRADE else c.RED + "flipping value " + str(round(flip_value, 2)) + "gbp\n" + c.END)
 
-                if flip_value > config.VALUE_TRADE:
+                if flip_value > config.VALUE_TRADE and len(sorted_listings) > config.MINIMUM_ITEMS:
                     with open("output.txt", "a") as f:
                         f.write(dcollection["name"] + f"  |  {flip_value}\n")
                         f.close()
